@@ -1,0 +1,11 @@
+C:\Users\dentellaluca\Git\LedStripController\LedStripController\bin\Debug\LedStripController.exe
+C:\Users\dentellaluca\Git\LedStripController\LedStripController\bin\Debug\LedStripController.pdb
+C:\Users\dentellaluca\Git\LedStripController\LedStripController\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\dentellaluca\Git\LedStripController\LedStripController\obj\x86\Debug\LedStripController.Form1.resources
+C:\Users\dentellaluca\Git\LedStripController\LedStripController\obj\x86\Debug\LedStripController.Properties.Resources.resources
+C:\Users\dentellaluca\Git\LedStripController\LedStripController\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\dentellaluca\Git\LedStripController\LedStripController\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\dentellaluca\Git\LedStripController\LedStripController\obj\x86\Debug\LedStripController.exe
+C:\Users\dentellaluca\Git\LedStripController\LedStripController\obj\x86\Debug\LedStripController.pdb
+C:\Users\dentellaluca\Git\LedStripDemo_1\LedStripController\LedStripController\obj\x86\Debug\LedStripController.exe
+C:\Users\dentellaluca\Git\LedStripDemo_1\LedStripController\LedStripController\obj\x86\Debug\LedStripController.pdb
